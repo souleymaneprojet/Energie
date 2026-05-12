@@ -168,7 +168,9 @@ else:
 
 # Signature
 st.markdown("""
-
+<div class="footer">
+    Réalisé par <strong>SOULEYMANE DAFFE - DATA SCIENTIST</strong>
+</div>
 """, unsafe_allow_html=True)
 
 
